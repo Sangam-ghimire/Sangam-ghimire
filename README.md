@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sangam Ghimire</h1>
+---
+[![](https://visitcount.itsvg.in/api?id=Sangam-ghimire&icon=4&color=0)](https://visitcount.itsvg.in)
 <h1 align="cneter"> 💫 About Me:</h1>
 Hi there! I am Sangam Ghimire, and I'm currently a student of Computer Science and Engineering at Kathmandu University. I'm passionate about solving real world problems, and I'm always looking to learn more.<br><br>In my free time, I enjoy to write stuffs. I also enjoy contributing to open-source projects and collaborating with others on GitHub.<br><br>If you'd like to get in touch, feel free to email me at 1sangamghimire1@gmail.com.<br><br>Thanks for stopping by!
 
@@ -19,5 +21,4 @@ Hi there! I am Sangam Ghimire, and I'm currently a student of Computer Science a
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sangam-ghimire&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Sangam-ghimire&icon=4&color=0)](https://visitcount.itsvg.in)
+
