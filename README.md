@@ -21,4 +21,3 @@ Hi there! I am Sangam Ghimire, and I'm currently a student of Computer Science a
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sangam-ghimire&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
-
