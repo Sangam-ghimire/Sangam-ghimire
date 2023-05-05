@@ -13,7 +13,7 @@ Hi there! I am Sangam Ghimire, and I'm currently a student of Computer Science a
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sangam-ghimire&theme=material-palenight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sangam-ghimire&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote Of The Day:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
@@ -48,12 +48,8 @@ Hi there! I am Sangam Ghimire, and I'm currently a student of Computer Science a
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sangam-ghimire&show_icons=true&locale=en&layout=compact" alt="sangam-ghimire" /></p>
-<p>
-🔥 Recent Activity
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-</p>
+
+
 
 
