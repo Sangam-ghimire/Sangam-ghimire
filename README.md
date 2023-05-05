@@ -50,7 +50,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sangam-ghimire&show_icons=true&locale=en&layout=compact" alt="sangam-ghimire" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sangam-ghimire&show_icons=true&locale=en" alt="sangam-ghimire" /></p>
+## 🔥 Recent Activity
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sangam-ghimire&" alt="sangam-ghimire" /></p>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 
